@@ -42,5 +42,5 @@ It provides a secure login, real-time parking slot tracking, and basic vehicle o
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/parking-lot-cpp.git
+git clone https://github.com/<saadgul248>/parking-lot-cpp.git
 cd parking-lot-cpp
